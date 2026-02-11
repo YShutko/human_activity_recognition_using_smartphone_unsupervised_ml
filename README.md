@@ -1,3 +1,5 @@
+# Unsupervised Machine Learning — Final Peer Assignment
+
 ## Human Activity Recognition Using Smartphones: PCA, Classification & Clustering
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
@@ -43,9 +45,13 @@ Features are derived from tri-axial accelerometer and gyroscope signals in both 
 
 ---
 
-## Data Structure
+## Project Structure
 
 ```
+├── 04_Unsupervised_FinalAssignment.ipynb   # Enhanced Jupyter notebook (main deliverable)
+├── 04_Unsupervised_FinalAssignment.pdf     # PDF report with results and visualizations
+├── README.md                                # This file
+├── requirements.txt                         # Python dependencies
 └── UCI HAR Dataset/                         # Dataset (download from Kaggle — see below)
     ├── activity_labels.txt
     ├── features.txt
